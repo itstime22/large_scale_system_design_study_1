@@ -1,4 +1,4 @@
-## Q1. 구현 방식을 알 수 있는데, 이를 어떻게 Spring Boot에서 적용할 수 있을까?
+## Q1. 처리율 제한 장치 구현 방식을 알 수 있는데, 이를 어떻게 Spring Boot에서 적용할 수 있을까?
 - 구글 `Guava`의 `RateLimiter` : 토큰 버킷 기반 알고리즘
 ```java
 @Component
