@@ -20,7 +20,7 @@
   - ```SHA-1```의 해시 공간의 범위=0~2^{160}-1 
   -> x0=0, xn=2^{160}-1
 <br/>
-![alt text](/images/image.png)
+![alt text](./images/image.png)
 
 <br/><br/>
 > **해시 서버**
